@@ -3,4 +3,4 @@ Include/
 Scripts/
 *.pyc
 pyvenv.cfg
-uploads/img/
+uploads/img/*
