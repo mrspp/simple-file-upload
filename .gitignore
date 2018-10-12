@@ -1,0 +1,6 @@
+Lib/
+Include/
+Scripts/
+*.pyc
+pyvenv.cfg
+uploads/img/
